@@ -5,6 +5,7 @@
 </a>
 
 - Blog: https://blog.thelia.site
+- Love Animes, DIY, 3D Printing
 - I'm still a student in SHU (24~28)
 - Curently learning frontend developing & docker
 - Working on Astrbot & Other interesting things
