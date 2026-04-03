@@ -6,7 +6,7 @@
 
 - Blog: https://blog.thelia.site
 - I'm still a student in SHU (24~28)
-- Curently learning frontend developing
+- Curently learning frontend developing & docker
 - Working on Astrbot & Other interesting things
 - Email : teddyyzr@foxmail.com
 <!--
