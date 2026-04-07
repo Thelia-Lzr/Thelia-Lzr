@@ -4,12 +4,24 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Thelia-Lzr&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" />
 </a>
 
+- INTP
 - Blog: https://blog.thelia.site
 - Love Animes, DIY, 3D Printing
+- Playing Osu! & League of Legends
 - I'm still a student in SHU (24~28)
 - Curently learning frontend developing & docker
 - Working on Astrbot & Other interesting things
 - Email : teddyyzr@foxmail.com
+
+## 🎵 Osu! Profile
+
+[![osu! signature card](https://osu-sig.s23.moe/card?user=Thelia_&mode=std&lang=en&animation=true&mini=true)](https://osu.ppy.sh/u/Thelia_)
+
+---
+
+<p align="center">
+🌟 Thanks for visiting, have a wonderful day! 🌟  
+</p>
 <!--
 **Thelia-Lzr/Thelia-Lzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
